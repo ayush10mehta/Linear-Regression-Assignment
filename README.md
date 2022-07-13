@@ -18,7 +18,7 @@
 
 - The ongoing Corona pandemic has recently caused a US bike-sharing company, BoomBikes, to experience significant drops in income. In the current market environment, it is extremely difficult for the organisation to remain viable. It has therefore made the conscious decision to develop a business plan that will enable it to increase revenue as soon as the ongoing lockdown ends and the economy returns to a healthy state.
 
-BoomBikes hopes to understand how people will feel about shared bikes when the current Covid-19-related nationwide quarantine situation ends in this effort. They have planned this in order to differentiate themselves from other service providers and be ready to meet people's requirements when everything improves.
+- BoomBikes hopes to understand how people will feel about shared bikes when the current Covid-19-related nationwide quarantine situation ends in this effort. They have planned this in order to differentiate themselves from other service providers and be ready to meet people's requirements when everything improves.
 
 ### Business Goals
 - With the available independent variables, we must model the demand for shared bikes. The management will use it to determine precisely how the needs change with changing features. They can adjust their business approach in accordance with demand levels and client expectations. The model will also help management better grasp the dynamics of demand in a new market.
@@ -35,10 +35,10 @@ BoomBikes hopes to understand how people will feel about shared bikes when the c
 7. weekday : day of the week
 8. workingday : if day is neither weekend nor holiday is 1, otherwise is 0.
 9. weathersit : 
-		- 1: Clear, Few clouds, Partly cloudy, Partly cloudy
-		- 2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
-		- 3: Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
-		- 4: Heavy Rain + Ice Pallets + Thunderstorm + Mist, Snow + Fog
+- 1: Clear, Few clouds, Partly cloudy, Partly cloudy
+- 2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
+- 3: Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
+- 4: Heavy Rain + Ice Pallets + Thunderstorm + Mist, Snow + Fog
 10. temp : temperature in Celsius
 11. atemp: feeling temperature in Celsius
 12. hum: humidity

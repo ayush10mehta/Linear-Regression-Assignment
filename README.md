@@ -48,6 +48,9 @@
 16. cnt: count of total rental bikes including both casual and registered
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+## Flow Diagram
+![Flow chart](https://github.com/ayush10mehta/Linear-Regression-Assignment/blob/main/Upgrad%20LR%20assignment.drawio.png?raw=true)
+
 ## Conclusions
 1. EDA
 - People are most likely to rent bike on holidays.
